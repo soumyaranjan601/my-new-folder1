@@ -1,0 +1,49 @@
+body{
+   
+}
+.parent-container{
+    border: 1px solid black;
+    height: 300px;
+    width: 300px;
+    position: relative;
+    margin: auto;
+    margin-top: 15%;
+
+   
+}
+.box{
+    border: 2px solid black;
+}
+.red{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    
+}
+.blue{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    left: 65%;
+    top: 0%;
+
+}
+.green{
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 66%;
+    left: 0%;
+
+}
+.orange{
+    background-color: orange;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    left: 65%;
+    top: 66%;
+    
+}

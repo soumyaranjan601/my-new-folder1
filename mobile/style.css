@@ -1,0 +1,75 @@
+
+    
+    
+
+#system {
+    border: 2px solid black;
+    height: 215px;
+    width: 115px;
+    border-radius: 12px;
+    outline: solid black;
+    background-image: url('iphone1.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: auto ;
+}
+#system:hover{
+    background-image: url("4.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: auto ;
+}
+
+h1 {
+    border: 1px solid black;
+    width: 37px;
+    height: 7px;
+    border-radius: 12px;
+    background-color: black;
+    margin-left: 38px;
+    margin-top: 4px;
+}
+
+h2 {
+    border: 1px solid black;
+    height: 15px;
+    width: 2px;
+    background-color: black;
+    margin-left: 115px;
+    margin-top: -4px;
+    border-radius: 10px;
+}
+
+h3 {
+    border: 1px solid black;
+    height: 15px;
+    width: 2px;
+    background-color: black;
+    margin-left: 115px;
+    margin-top: -19px;
+    border-radius: 10px;
+}
+
+h6 {
+    border: 0.3px solid white;
+    width: 45px;
+    height: 1px;
+    border-radius: 25px;
+    margin-left: 34px;
+    margin-top: 142px;
+    background-color: rgb(238, 232, 232);
+}
+p{
+    border: 0px solid black;
+    margin-top: -200px;
+    margin-left: 40px;
+    
+    color: white;
+
+}
+p:hover{
+    background-image: url("4.jpeg");
+background-size: cover;
+background-repeat: no-repeat;
+margin: auto ;
+}
